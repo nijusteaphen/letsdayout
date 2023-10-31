@@ -1,0 +1,33 @@
+.container{
+
+}
+.topbar{
+background-color: yellowgreen;
+margin-bottom: -80vh;
+}
+p{
+    background-color: darkblue;
+}
+.resname{
+background-color: black;
+margin-top: -80px;
+}
+.happy{
+    color: white;
+    font-size: 10vh;
+    padding-left: 10vh;
+    font-family: 'Caveat', cursive;
+    
+}
+.resquote{
+
+}
+.reslogo{
+    display: flex;
+    align-items: center; 
+    size: 50%
+    ;
+}
+.resnav{
+
+}

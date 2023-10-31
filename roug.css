@@ -1,0 +1,33 @@
+/* Initial styles for the element */
+.hover-box {
+    position: relative; /* Required for the ::before pseudo-element */
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+    transition: opacity 0.3s; /* Add a transition for a smooth effect */
+}
+
+/* Change opacity and display another word when the element is hovered */
+.hover-box:hover {
+    opacity: 0.7; /* You can adjust the desired opacity value */
+}
+
+/* Styles for the ::before pseudo-element */
+.hover-box:hover::before {
+    content: "Hovered"; /* Display the word "Hovered" */
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: red;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+    opacity: 1;
+    transition: opacity 0.3s; /* Add a transition for a smooth effect */
+}

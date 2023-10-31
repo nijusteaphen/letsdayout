@@ -1,0 +1,180 @@
+.topimg{
+    width: 100%;
+}
+.topbar{
+    background-image: url(https://i.pinimg.com/736x/f0/0c/34/f00c34fdbcecc6064b06bfcf5b618fd8.jpg);
+    width: 90%;
+    margin-left: 12vh;
+}
+.dayoutimg{
+    margin-left: 38vh;
+    width: 100%;
+}
+.dayoutname{
+margin-left: 10vh;
+margin-top:-19vh;
+font-family: 'Comfortaa', cursive;
+}
+.holi{
+    margin-top: -2vh;
+    margin-left: 4vh;
+}
+.name{
+    
+
+}
+span{
+    color: orangered;
+}
+.nav-bar{
+flex-direction: column;
+list-style: none;
+justify-content: space-between;
+}
+.list-item{
+    display: inline-block;
+    list-style: none;
+}
+.list-item:hover{
+    background-color:gray;
+    transform: scale(1.1);
+    border-radius: 22px;
+}
+.link{
+    text-decoration: none;
+    font-family: 'Comfortaa', cursive;
+    color:black;
+    font-weight: bold;
+
+}
+.quote{
+    padding-left: 70vh;
+    margin-left: 12vh;
+    margin-right: 9.5vh;
+}
+.q1{
+    font-family: 'Delicious Handrawn', cursive;
+}
+.navhm{
+    margin-right: 140vh;
+    margin-left: -66vh;
+    margin-top: -7vh;
+}
+.despan{
+    margin-left: 15vh;
+}
+.navpac{
+    margin-left: 60vh;
+    margin-right: 15vh;
+    margin-top: -3vh;
+}
+.gaspan{
+    margin-left: 8vh;
+}
+.abspan{
+    margin-left: 7vh;
+}
+.home{
+    
+}
+.destinations{
+padding-left: -25vh;
+margin-left: 12vh;
+margin-right: 10vh;
+margin-top:3vh;
+}
+.destheme{
+color:black;
+font-family: 'Comfortaa', cursive;
+}
+.honeymoon{
+margin-top: 5vh;
+}
+.himg{
+    width: 20%;
+    margin-left: 0vh;
+    border-radius: 10vh;
+}
+.hname{
+    margin-left: 12vh;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 3vh;
+    color:black;
+    padding-top: 1vh;
+}
+.hname:hover{
+    color: orangered;
+}
+.hlink{
+   text-decoration: none; 
+}
+.flink{
+    text-decoration: none; 
+  
+}
+.family{
+
+}
+.fimg{
+    width: 19.5%;
+    margin-left: 50vh;
+    margin-top: -40vh;
+    border-radius: 10vh; 
+}
+.fname{
+    margin-left: 65vh;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 3vh;
+    color:black;
+    margin-top:-8vh;
+    margin-right: 120vh;
+}
+.fname:hover{
+    color: orangered;
+}
+
+.friends{
+
+}
+.frimg{
+    width: 21%;
+    margin-left: 101vh;
+    margin-top: -42vh;
+    border-radius: 10vh; 
+}
+.frname{
+    margin-left: 115vh;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 3vh;
+    color:black;
+    margin-top:-9vh;
+    margin-right: 55vh;
+}
+.frname:hover{
+    color: orangered;
+}
+.frlink{
+    text-decoration: none;
+}
+.solo{
+
+}
+.simg{
+    width: 18.9%;
+    margin-left: 154.1vh;
+    margin-top: -42vh;
+    border-radius: 10vh; 
+}
+.sname{
+    margin-left: 172vh;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 3vh;
+    color:black;
+    margin-top:-10vh;
+}
+.sname:hover{
+    color: orangered;
+}
+.solink{
+    text-decoration: none;
+}
